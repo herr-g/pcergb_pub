@@ -1,0 +1,8 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"R13,R12,R11,R10";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";4;"75R";;;
+2;"C3,C4,C5,C2,C1";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";5;"100nF";;;
+3;"R1,R3,R4,R2";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";4;"1k8";;;
+4;"R5,R6,R8,R7";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";4;"10k";;;
+5;"R9";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";1;"4k7";;;
+6;"C7,C9,C8,C6";"CP_EIA-7343-31_Kemet-D_Pad2.25x2.55mm_HandSolder";4;"220uF";;;
+7;"U1";"TSSOP-14_4.4x5mm_P0.65mm";1;"THS7374";;;
