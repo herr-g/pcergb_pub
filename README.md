@@ -8,20 +8,21 @@ This 4-channel RGBS Amp is based on Voultars schematic:
 - LPF optional via solder bridge on JP1
 - Minimum footprint at 35,5mm * 15,4mm
 
-I found 0,8mm PCB thickness to be just perfect.
-Note for JLCPCB: Set the option 'Remove Order Number' to 'Specify a location' and the order number will be hidden under the bottom right tantalum cap.
+I found 0.8mm PCB thickness to be just perfect.
 
-![PCB unpopulated](pcergb_blankpcbs.jpg)
-![PCB populated](pcergb_populated.jpg)
+**Note for JLCPCB**: Set the option 'Remove Order Number' to 'Specify a location' and the order number will be hidden under the bottom right tantalum cap.
+
+![PCB unpopulated](images/pcergb_blankpcbs.jpg)
+![PCB populated](images/pcergb_populated.jpg)
 
 The output voltage was measured at exactly 0,7Vpp (75R termination)
-![Output voltage measured 0,7Vpp](pcergb_outputamplitude.jpg)
+![Output voltage measured 0,7Vpp](images/pcergb_outputamplitude.jpg)
 
 Test pattern using 240p Test Suite
-![Test pattern](pcergb_testpattern.jpg)
+![Test pattern](images/pcergb_testpattern.jpg)
 
 Example for a finished setup in a PCE Duo
-![Example Duo](pcergb_finished.jpg)
+![Example Duo](images/pcergb_finished.jpg)
 
 Example for a finished setup in a Super CD-ROM
-![Example SCDROM](pcergb_scdrom.jpg)
+![Example SCDROM](images/pcergb_scdrom.jpg)
